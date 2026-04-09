@@ -1,0 +1,13 @@
+{
+  "name": "telegram-leaderboard-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot with point system and leaderboard",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0",
+    "better-sqlite3": "^9.4.3"
+  }
+}
