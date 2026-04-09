@@ -3,8 +3,8 @@ const Database = require("better-sqlite3");
 const path = require("path");
 
 // ===================== CONFIG =====================
-const TOKEN = process.env.BOT_TOKEN;
-const ADMIN_ID = parseInt(process.env.ADMIN_ID);
+const TOKEN = "8756023029:AAHnBDv6MMnVA5WQmR34c-Nz3L8qA_4irLg";
+const ADMIN_ID = 5924662015;
 // ==================================================
 
 const bot = new TelegramBot(TOKEN, { polling: true });
