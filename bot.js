@@ -12,9 +12,9 @@ const DAILY_CLAIM_POINTS = 10;
 // ── Point Use Rewards ──
 // Photo rewards: use X points → get a photo
 const PHOTO_REWARDS = [
-  { points: 100, photo: "https://example.com/photo1.jpg", caption: "🎁 100 Point Reward Photo!" },
-  { points: 200, photo: "https://example.com/photo2.jpg", caption: "🎁 200 Point Reward Photo!" },
-  { points: 300, photo: "https://example.com/photo3.jpg", caption: "🎁 300 Point Reward Photo!" },
+  { points: 100, photo: "https://files.catbox.moe/0g1v16.jpg", caption: "🎁 100 Point Reward Photo!" },
+  { points: 200, photo: "https://files.catbox.moe/p4cezg.jpg", caption: "🎁 200 Point Reward Photo!" },
+  { points: 300, photo: "https://files.catbox.moe/jpnqxz.jpg", caption: "🎁 300 Point Reward Photo!" },
 ];
 
 // Link rewards: use X points → get a link
