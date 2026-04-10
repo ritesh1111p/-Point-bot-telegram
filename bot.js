@@ -19,7 +19,7 @@ const PHOTO_REWARDS = [
 
 // Link rewards: use X points → get a link
 const LINK_REWARDS = [
-  { points: 500, link: "https://example.com/link1", text: "🔗 500 Point Reward Link!" },
+  { points: 500, link: "https://www.mediafire.com/file/rjkq0w61lz6nyaa/illuminate-XD-main.zip/file", text: "🔗 500 Point Reward Link!" },
   { points: 1000, link: "https://optiklink.net/home", text: "🔗 1000 Point Reward Link!" },
 ];
 
