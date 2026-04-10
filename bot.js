@@ -24,7 +24,7 @@ const LINK_REWARDS = [
 ];
 
 // ── Menu Photo (URL) ──
-const MENU_PHOTO_URL = "https://example.com/menu-banner.jpg";
+const MENU_PHOTO_URL = "https://files.catbox.moe/e92m41.png";
 // ==================================================
 
 const bot = new TelegramBot(TOKEN, { polling: true });
